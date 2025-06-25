@@ -27,7 +27,7 @@ This is a desktop To-Do List application built in Python using `tkinter`. It all
 
 ---
 
-## 🖥 UI Overview
+##  UI Overview
 
 - **Task List**: Displays all matching tasks with visual status
 - **Buttons**: Add, Edit, Delete, Mark Complete, Unmark
@@ -35,7 +35,7 @@ This is a desktop To-Do List application built in Python using `tkinter`. It all
 
 ---
 
-## 📁 Files
+##  Files
 
 | File            | Description                              |
 |-----------------|------------------------------------------|
