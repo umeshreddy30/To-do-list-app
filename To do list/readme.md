@@ -1,24 +1,24 @@
-# 🗓️ Python To-Do List App with Deadlines (Tkinter GUI)
+#  Python To-Do List App with Deadlines (Tkinter GUI)
 
 This is a desktop To-Do List application built in Python using `tkinter`. It allows you to manage your daily tasks efficiently with support for **deadlines**, **completion status**, **editing**, and **real-time filtering** by title and status.
 
 ---
 
-## ✅ Features
+##  Features
 
-### 📋 Task Management
+###  Task Management
 - Add new tasks with a deadline (`YYYY-MM-DD HH:MM` format)
 - Edit task title and deadline
 - Delete tasks
 - Mark tasks as **complete** or **incomplete**
 - Persistent data stored in `tasks.json`
 
-### 🎨 Visual Highlights
+###  Visual Highlights
 - ✅ Completed tasks: **Green text**
 - ⏰ Overdue tasks: **Red text**
 - 🔍 Filtered tasks: Update as you type
 
-### 🔍 Search & Filter
+###  Search & Filter
 - **Search** tasks by title (case-insensitive)
 - **Filter** tasks by:
   - All
@@ -27,7 +27,7 @@ This is a desktop To-Do List application built in Python using `tkinter`. It all
 
 ---
 
-## 🖥️ UI Overview
+## 🖥 UI Overview
 
 - **Task List**: Displays all matching tasks with visual status
 - **Buttons**: Add, Edit, Delete, Mark Complete, Unmark
